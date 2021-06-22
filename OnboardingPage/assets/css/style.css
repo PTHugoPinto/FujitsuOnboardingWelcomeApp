@@ -8052,6 +8052,12 @@ a:active {
   border-radius: 5px;
 }
 
+.comments-area .comment-navigation .nav-links i {
+  background-color: #232c3b;
+  color: white;
+  border-radius: 5px;
+}
+
 .comment-respond {
   background-color: white;
   border-radius: 5px;
